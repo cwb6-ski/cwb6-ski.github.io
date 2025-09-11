@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post #1
+title: Post 1
 subtitle: About Cole 
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
