@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Post 2
-subtitle: About Cole 
+subtitle: Sewing Sampler 
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
