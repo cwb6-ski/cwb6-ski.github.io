@@ -13,4 +13,5 @@ author: Cole Bothner
 {: .box-success}
 TIP: Smaller gaps between stiches looks better.
 Trick: Add a small knot on the end with the needle so the thread does not pull through. 
-
+"/assets/img/IMG_2633.HEIC"
+"/assets/img/IMG_2634.HEIC"
