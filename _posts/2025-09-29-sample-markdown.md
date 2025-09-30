@@ -15,5 +15,7 @@ TIP: Pull lightly when using conductive thread! It brakes easily.
 Description: In this project we constructed a toy that lights up using the skills we developed in our sewing sampler and circut building assingments. The goal was to understand the flow of electricity and how opening an closing a circut affects this flow.
 
 
-![image](/assets/img/IMG_2633.jpeg){: .mx-auto.d-block}
-![image 2](/assets/img/IMG_2634.jpeg){: .mx-auto.d-block}
+![image](/assets/img/Plushie Project.jpeg){: .mx-auto.d-block}
+![image 2](/assets/img/backside .jpeg){: .mx-auto.d-block}
+![image 3](/assets/img/ALA clip proto.jpeg){: .mx-auto.d-block}
+![image 4](/assets/img/Paper prototype.jpeg){: .mx-auto.d-block}
