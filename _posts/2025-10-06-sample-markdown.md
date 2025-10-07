@@ -16,7 +16,7 @@ TIP: When making a patch or button of conductive thread make sure to make it lar
 
 
 
-![image](/assets/img/PlushieProject.jpeg){: .mx-auto.d-block}
-![image 2](/assets/img/backside.jpeg){: .mx-auto.d-block}
-![image 3](/assets/img/Alagator.jpeg){: .mx-auto.d-block}
-![image 4](/assets/img/Paperprototype.jpeg){: .mx-auto.d-block}
+![image](/assets/img/simpleswitchfront.jpeg){: .mx-auto.d-block}
+![image 2](/assets/img/simpleswitchback.jpeg){: .mx-auto.d-block}
+![image 3](/assets/img/switchalagator.jpeg){: .mx-auto.d-block}
+![image 4](/assets/img/Switchpprproto.jpeg){: .mx-auto.d-block}
