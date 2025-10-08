@@ -15,7 +15,4 @@ Description: Program a deliveralble that will tourn on diffrent LED lights utlil
 TIP: Be very carefull with where in your programs curly brackets lie and what is in between them. 
 
 
-![image](/assets/img/simpleswitchfront.jpeg){: .mx-auto.d-block}
-![image 2](/assets/img/simpleswitchback.jpeg){: .mx-auto.d-block}
-![image 3](/assets/img/switchalagator.jpeg){: .mx-auto.d-block}
-![image 4](/assets/img/Switchpprproto.jpeg){: .mx-auto.d-block}
+![image](/assets/img/Rgblooppic.jpeg){: .mx-auto.d-block}
