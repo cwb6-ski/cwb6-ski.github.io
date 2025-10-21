@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Post 5
-subtitle: RGB Lights
+title: Post 6
+subtitle: Fireflies
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
@@ -11,9 +11,10 @@ author: Cole Bothner
 ---
 
 {: .box-success}
-Description: Program a deliveralble that will tourn on diffrent LED lights utlilising a loop.  
-TIP: Be very carefull with where in your programs curly brackets lie and what is in between them. 
+Description: Program three seprate files using the state based approach that can later be combined to mimic the flashing behavior of fireflies.
+TIP: Spend lots to tyme on your psudo-code, it will take you much further when it is well laied out. 
 
 
 ![image](/assets/img/Rgblooppic.jpeg){: .mx-auto.d-block}
-
+![image](/assets/img/Rgblooppic.jpeg){: .mx-auto.d-block}
+![image](/assets/img/Rgblooppic.jpeg){: .mx-auto.d-block}
