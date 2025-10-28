@@ -15,5 +15,5 @@ Description: Place all of the state based files from the previous assingment int
 TIP: Be carefull and specific with the names of the integers you make. It is a pain to deal with the code when mutiple things have the same name.
 
 
-![image](/assets/img/sync.jpeg){: .mx-auto.d-block}
+![image](/assets/img/firefly.jpeg){: .mx-auto.d-block}
 
