@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Post 7
-subtitle: Fireflies: All Together Now
+subtitle: Fireflies, All Together Now
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
