@@ -15,6 +15,6 @@ Description: Program a code that will cause the onboard RGB LED to shine a rando
 TIP: Make sure to always have arduino when coding because the code that a partner and I made work on her arduino at TA hours does not, for some reason, work on mine. 
 
 
-![image](/assets/img/firefly.jpeg){: .mx-auto.d-block}
+![image](/assets/img/button.jpeg){: .mx-auto.d-block}
 
 
