@@ -15,6 +15,6 @@ Description: Create a code to turn o lights based on light and temperature condi
 TIP: Make sure you are connected to the right board at all time otherwise it will not work.
 
 
-![image](/assets/img/firefly.jpeg){: .mx-auto.d-block}
+![image](/assets/img/ghostdetect.jpeg){: .mx-auto.d-block}
 
 
