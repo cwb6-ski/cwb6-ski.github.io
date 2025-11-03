@@ -15,7 +15,7 @@ Description: Create a code to play a song when a switch is flipped on.
 TIP: Make sure all your hardware is functional before trouble shooting code. A malfunctioning Arduino can cause many problems.
 
 
-![image](/assets/img/ghostdetect.jpeg){: .mx-auto.d-block}
+![image](/assets/img/jammin.jpeg){: .mx-auto.d-block}
 
 
 
