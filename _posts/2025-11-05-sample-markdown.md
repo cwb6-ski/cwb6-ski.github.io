@@ -15,7 +15,7 @@ Description: Create a code that plays your name in morse code and then SOS when 
 TIP: My Arduino does not work (confirmed). Check your code on someone elses Arduino before pulling your hair out. ALSO: realise that this is just code so stay calm and go to TA hours. 
 
 
-![image](/assets/img/jammin.jpeg){: .mx-auto.d-block}
+![image](/assets/img/help.jpeg){: .mx-auto.d-block}
 
 
 
