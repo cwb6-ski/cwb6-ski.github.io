@@ -15,7 +15,7 @@ Description: This is my final Project Proposal
 
 
 
-![image](/assets/img/FINALPOJECTPROPOSAL.jpg){: .mx-auto.d-block}
+![image](/assets/img/FINALPROJECTPROPOSAL.jpg){: .mx-auto.d-block}
 
 
 
