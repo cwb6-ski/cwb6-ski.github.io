@@ -15,7 +15,7 @@ Description: A scale paper prototype for my final project.
 
 
 
-![image](/assets/js/finalpaperp.jpeg){: .mx-auto.d-block}
+![image](/assets/finalpaperp.jpeg){: .mx-auto.d-block}
 
 
 
