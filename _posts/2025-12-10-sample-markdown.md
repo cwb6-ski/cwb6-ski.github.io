@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Post 15
-subtitle: Final Project: Mood Scarf
+subtitle: Final Project Mood Scarf
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
